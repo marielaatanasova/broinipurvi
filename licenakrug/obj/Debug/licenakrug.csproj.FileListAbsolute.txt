@@ -1,0 +1,6 @@
+E:\NP_ITMariela\vekove\licenakrug\bin\Debug\licenakrug.exe.config
+E:\NP_ITMariela\vekove\licenakrug\bin\Debug\licenakrug.exe
+E:\NP_ITMariela\vekove\licenakrug\bin\Debug\licenakrug.pdb
+E:\NP_ITMariela\vekove\licenakrug\obj\Debug\licenakrug.csprojResolveAssemblyReference.cache
+E:\NP_ITMariela\vekove\licenakrug\obj\Debug\licenakrug.exe
+E:\NP_ITMariela\vekove\licenakrug\obj\Debug\licenakrug.pdb

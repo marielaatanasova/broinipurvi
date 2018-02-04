@@ -1,0 +1,6 @@
+E:\NP_ITMariela\vekove\celichisla\obj\Debug\celichisla.csprojResolveAssemblyReference.cache
+E:\NP_ITMariela\vekove\celichisla\bin\Debug\celichisla.exe.config
+E:\NP_ITMariela\vekove\celichisla\bin\Debug\celichisla.exe
+E:\NP_ITMariela\vekove\celichisla\bin\Debug\celichisla.pdb
+E:\NP_ITMariela\vekove\celichisla\obj\Debug\celichisla.exe
+E:\NP_ITMariela\vekove\celichisla\obj\Debug\celichisla.pdb

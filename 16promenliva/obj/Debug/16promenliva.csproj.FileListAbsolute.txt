@@ -1,0 +1,5 @@
+E:\NP_ITMariela\vekove\16promenliva\bin\Debug\16promenliva.exe.config
+E:\NP_ITMariela\vekove\16promenliva\bin\Debug\16promenliva.exe
+E:\NP_ITMariela\vekove\16promenliva\bin\Debug\16promenliva.pdb
+E:\NP_ITMariela\vekove\16promenliva\obj\Debug\16promenliva.exe
+E:\NP_ITMariela\vekove\16promenliva\obj\Debug\16promenliva.pdb

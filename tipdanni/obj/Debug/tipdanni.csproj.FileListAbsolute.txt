@@ -1,0 +1,6 @@
+E:\NP_ITMariela\vekove\tipdanni\bin\Debug\tipdanni.exe.config
+E:\NP_ITMariela\vekove\tipdanni\bin\Debug\tipdanni.exe
+E:\NP_ITMariela\vekove\tipdanni\bin\Debug\tipdanni.pdb
+E:\NP_ITMariela\vekove\tipdanni\obj\Debug\tipdanni.csprojResolveAssemblyReference.cache
+E:\NP_ITMariela\vekove\tipdanni\obj\Debug\tipdanni.exe
+E:\NP_ITMariela\vekove\tipdanni\obj\Debug\tipdanni.pdb

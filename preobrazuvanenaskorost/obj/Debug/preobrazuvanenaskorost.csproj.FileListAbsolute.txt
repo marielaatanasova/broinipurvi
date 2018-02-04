@@ -1,0 +1,6 @@
+E:\NP_ITMariela\vekove\preobrazuvanenaskorost\bin\Debug\preobrazuvanenaskorost.exe.config
+E:\NP_ITMariela\vekove\preobrazuvanenaskorost\bin\Debug\preobrazuvanenaskorost.exe
+E:\NP_ITMariela\vekove\preobrazuvanenaskorost\bin\Debug\preobrazuvanenaskorost.pdb
+E:\NP_ITMariela\vekove\preobrazuvanenaskorost\obj\Debug\preobrazuvanenaskorost.exe
+E:\NP_ITMariela\vekove\preobrazuvanenaskorost\obj\Debug\preobrazuvanenaskorost.pdb
+E:\NP_ITMariela\vekove\preobrazuvanenaskorost\obj\Debug\preobrazuvanenaskorost.csprojResolveAssemblyReference.cache
